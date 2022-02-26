@@ -1,5 +1,5 @@
 # FlatMates
-  A flatmanagement app developed to help flatmates to keep there flats looking nice and organized and clean.
+  A flat management app developed to help flatmates to keep there flats looking nice and organized and clean.
   
 # Technologies
   Typescript,
@@ -11,4 +11,4 @@
   Apollo,
   Nexus,
 
-  
+ 
